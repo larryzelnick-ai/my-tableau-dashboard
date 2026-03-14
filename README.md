@@ -4,7 +4,7 @@ This repository contains a Tableau dashboard exported as a packaged workbook (.t
 
 ## Overview
 
-Visualizes global video game sales with interactive views for top 10 titles, sales by genre, and sales trends by year. The dashboard was originally published on [Tableau Public](https://public.tableau.com/app/profile/larry.zelnick/viz/VideoGameGlobalSalesDashboard_17734310453370/VideoGameGlobalSalesDashboard?publish=yes) for online viewing.
+Visualizes global video game sales with interactive views for top 10 titles, sales by genre, and sales trends by year. The dashboard was originally published on [Tableau Public](https://public.tableau.com/app/profile/larry.zelnick/viz/VideoGameGlobalSalesDashboard_17734886010920/VideoGameSalesDashboard?publish=yes) for online viewing.
 
 ## Files
 
@@ -19,7 +19,7 @@ Visualizes global video game sales with interactive views for top 10 titles, sal
 
 ## Tableau Public Link
 
-[View Dashboard Online](https://public.tableau.com/app/profile/larry.zelnick/viz/VideoGameGlobalSalesDashboard_17734310453370/VideoGameGlobalSalesDashboard?publish=yes)
+[View Dashboard Online](https://public.tableau.com/app/profile/larry.zelnick/viz/VideoGameGlobalSalesDashboard_17734886010920/VideoGameSalesDashboard?publish=yes)
 
 ## Notes
 
