@@ -24,8 +24,6 @@ Visualizes global video game sales with interactive views for top 10 titles, sal
 
 ## Tableau Public Link
 
-View the dashboard online:
-
 https://public.tableau.com/app/profile/larry.zelnick/viz/VideoGameGlobalSalesDashboard_17734886010920/VideoGameSalesDashboard?publish=yes
 
 ## Notes
