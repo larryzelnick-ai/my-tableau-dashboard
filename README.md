@@ -1,3 +1,7 @@
+![Tableau](https://img.shields.io/badge/Tableau-424242?style=for-the-badge&logo=tableau&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-28B5E1?style=for-the-badge&logo=snowflake&logoColor=white)
+
 # Video Game Global Sales Dashboard
 
 This repository contains a Tableau dashboard exported as a packaged workbook (.twbx).
